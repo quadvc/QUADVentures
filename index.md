@@ -40,8 +40,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quadvc/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Us
-```markdown
 서울시 영등포구 국제금융로 10 Three IFC 29층<br/>
 Tel. +82 2 730 8330<br/>
 Mail. [vc@quadim.com](mailto://vc@quadim.com)<br/>
-```
+
