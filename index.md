@@ -43,7 +43,7 @@
 ## 펀드 현황
 First Header | Second Header | Third Header 
 ------------ | ----------- | ------------------- | 
-| First row | Data | Very long data entry |
+| 쿼드1호벤처투자조합 | 50억원 | 전기차 배터리 핵심소재, 제조업체  |
 | Second row | **Cell** | *Cell* |
 | Third row | Cell that spans across two columns |
 <br>
