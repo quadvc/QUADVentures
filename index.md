@@ -8,6 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Who we are
+```markdown
+
+우리의 삶은 기술적 특이점에 도달하며 빠른 속도로 변화하고 있습니다.
+
+```
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
