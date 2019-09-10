@@ -13,9 +13,6 @@
 <br/>
 <br/>
 <br/>
-
-
-
 ## 투자 시장에서의 벤처 캐피탈
 
 그간 정책적으로 성장한 벤처 금융도 이제는 민간 투자 시장의 매력적인 대체 투자 영역으로 자리매김하고 있습니다.
@@ -23,20 +20,18 @@
 
 글로벌 헤지펀드 대명사로 유명한 타이거 매니지먼트는 이제 [세계 최대의 벤처펀드를 결성](https://www.mk.co.kr/news/business/view/2018/10/663450/)하며 벤처투자에 주력하고 있습니다. 
 
+상장 시장은 이제 초과수익을 내는것이 점차 어려워지고있으며, 전세계적인 저성장 국면에서 자본수익성을 중시하는 자본의 속성상 새로운 시장을 창출하는 고성장 기업을 찾아 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+## QUAD가 바라보는 미래
 
 ou can use the [editor on GitHub](https://github.com/quadvc/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-
-
-### Who we are
-```markdown
-
-우리의 삶은 기술적 특이점에 도달하며 빠른 속도로 변화하고 있습니다.
-
-```
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
