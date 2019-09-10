@@ -11,13 +11,13 @@
 
 
 
-
-
-
 ## 투자 시장에서의 벤처 캐피탈
 
-지난 10여난간 정책적으로 성장한 벤처 금융도 이제는 민간 투자 시장의 매력적인 대체 투자 방법으로 자리매김하고 있습니다.
-국내에서만 연간 8조원 규모의 벤처투자 펀드가 결성되고 있으며, 글로벌 헤지펀드 대명사로 유명한 타이거 매니지먼트는 이제 [세계 최대의 벤처펀드를 결성](https://www.mk.co.kr/news/business/view/2018/10/663450/)하며 벤처투자에 주력하고 있습니다. 
+그동안 정책적으로 성장한 벤처 금융도 이제는 민간 투자 시장의 매력적인 대체 투자 방법으로 자리매김하고 있습니다.
+국내에서만 매년 8조원 규모의 벤처투자 펀드가 결성되고 있으며, 벤처투자의 상징과도 같았던 ""창투사 (창업투자회사)"" 외에 IB나 자산운용사 등 시장 참여자가 지속 증가하고 있습니다.
+
+
+2천년대 글로벌 헤지펀드 대명사로 유명한 타이거 매니지먼트는 이제 [세계 최대의 벤처펀드를 결성](https://www.mk.co.kr/news/business/view/2018/10/663450/)하며 벤처투자에 주력하고 있습니다. 
 
 
 ou can use the [editor on GitHub](https://github.com/quadvc/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
