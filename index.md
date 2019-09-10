@@ -1,4 +1,4 @@
-![](logo.png){:width="100" height="100"}
+![](logo.png){:width="10%" height="10%"}
 
 ## 특이점의 도래, 라이프 스타일의 변화
 
