@@ -1,6 +1,11 @@
 ## Welcome to QUAD Ventures
 
-You can use the [editor on GitHub](https://github.com/quadvc/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+우리의 삶은 기술적 특이점에 도달하며 빠른 속도로 변화하고 있습니다. 지난 10년보다 최근 2~3년간 더욱 많은 변화가 이루어졌으며, 앞으로 이러한 변화는 더 빠르게 우리 삶을 바꿀 것 입니다.
+
+
+
+
+ou can use the [editor on GitHub](https://github.com/quadvc/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
