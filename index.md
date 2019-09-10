@@ -1,5 +1,3 @@
-![](logo.png){:width="30%" height="30%"}
-
 ## 특이점의 도래, 라이프 스타일의 변화
 
 유니콘, 스타트업은 더 이상 낯선 단어가 아닙니다.
@@ -42,7 +40,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br/>
 <br/>
 <br/>
-## Contact Us
+## Contact Us  
+![](logo.png){:width="30%" height="30%"}
 서울시 영등포구 국제금융로 10 Three IFC 29층<br/>
 Tel. +82 2 730 8330<br/>
 Mail. [vc@quadim.com](mailto://vc@quadim.com)<br/>
