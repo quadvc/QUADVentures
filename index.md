@@ -40,6 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 서울시 영등포구 국제금융로 10 Three IFC 29층
 
 Tel. +82 2 730 8330
-Mail. [vc@quadim.com](mailto://vc@quadim.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mail. [vc@quadim.com](mailto://vc@quadim.com)
