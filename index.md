@@ -42,10 +42,10 @@
 <br/>
 ## 펀드 현황
 펀드명 | 펀드규모 | 주 투자 분야 
------------- | ----------- | ------------------- | 
-| 쿼드1호벤처투자조합 | 50억원 | 전기차 배터리 핵심소재, 제조업체  |
-| Second row | **Cell** | *Cell* |
-| Third row | Cell that spans across two columns |
+------------ | ----------- | -------------------  
+쿼드1호벤처투자조합 | 50억원 | 전기차 배터리 핵심소재, 제조업체
+Second row | **Cell** | *Cell*
+Third row | Cell that spans across two columns
 <br>
 <br/>
 <br/>
