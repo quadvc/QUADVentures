@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Us
 
-서울시 영등포구 국제금융로 10 Three IFC 29층
-Tel. +82 2 730 8330
-Mail. [vc@quadim.com](mailto://vc@quadim.com)
+*서울시 영등포구 국제금융로 10 Three IFC 29층
+*Tel. +82 2 730 8330
+*Mail. [vc@quadim.com](mailto://vc@quadim.com)
