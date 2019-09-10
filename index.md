@@ -10,7 +10,7 @@
 OECD국가 중 서비스분야의 낮은 생산성도 IT기술의 발달과 모바일 환경, 서비스 친화적 스타트업의 등장으로 앞으로 국가 경쟁력을 주도할 유망 분야로 주목받기 시작하였습니다.
 
 
-![Image](https://github.com/quadvc/home/blob/master/Black%20(Screen).png)
+![Image](Black%20(Screen).png)
 
 
 
