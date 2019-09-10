@@ -18,12 +18,10 @@
 
 ## 투자 시장에서의 벤처 캐피탈
 
-그동안 정책적으로 성장한 벤처 금융도 이제는 민간 투자 시장의 매력적인 대체 투자 방법으로 자리매김하고 있습니다.
-국내에서만 매년 8조원 규모의 벤처투자 펀드가 결성되고 있으며, 벤처투자의 전유물 같았던 **창투사**(창업투자회사) 외에 IB나 자산운용사 등 시장 참여자가 지속 증가하고 있습니다.
+그간 정책적으로 성장한 벤처 금융도 이제는 민간 투자 시장의 매력적인 대체 투자 영역으로 자리매김하고 있습니다.
+국내에서만 매년 8조원 규모의 벤처투자 펀드가 결성되고 있으며, 창투사(창업투자회사)의 전유물 같았던 벤처투자 영역에 증권사 IB나 자산운용사 등 재무적 투자 수익을 주목적으로 하는 시장 참여자가 지속 증가하고 있습니다.
 
-한편으로 
-
-2천년대 글로벌 헤지펀드 대명사로 유명한 타이거 매니지먼트는 이제 [세계 최대의 벤처펀드를 결성](https://www.mk.co.kr/news/business/view/2018/10/663450/)하며 벤처투자에 주력하고 있습니다. 
+글로벌 헤지펀드 대명사로 유명한 타이거 매니지먼트는 이제 [세계 최대의 벤처펀드를 결성](https://www.mk.co.kr/news/business/view/2018/10/663450/)하며 벤처투자에 주력하고 있습니다. 
 
 
 ou can use the [editor on GitHub](https://github.com/quadvc/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -69,6 +67,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Us
 
-서울시 영등포구 국제금융로 10 Three IFC 29층
-Tel. +82 2 730 8330
-Mail. [vc@quadim.com](mailto://vc@quadim.com)
+서울시 영등포구 국제금융로 10 Three IFC 29층<br/>
+Tel. +82 2 730 8330<br/>
+Mail. [vc@quadim.com](mailto://vc@quadim.com)<br/>
