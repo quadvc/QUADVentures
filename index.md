@@ -1,4 +1,4 @@
-# 쿼드벤처스
+
 
 ## 특이점의 도래, 라이프 스타일의 변화
 
@@ -37,7 +37,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br/>
 <br/>
 <br/>
-## Venture Capitalist
+## 
 <br>
 <br/>
 <br/>
