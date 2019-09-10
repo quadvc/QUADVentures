@@ -29,21 +29,19 @@
 <br/>
 ## QUAD가 바라보는 미래
 
-제조 중심에서 4차산업으로의 이동, 견고해진 벤처 금융 등 유니콘 스타트업의 등장은 일시적 유행에 그치지 않고 지속적이며 대세적인 성장 방향이라 생각합니다. 산업의 패러다임 변화 주기는 점차 짧아지고 있으며 이에 따라 벤처 투자자의 역할은 더욱 증대될 것입니다.
+제조 중심에서 4차산업으로의 이동, 견고해진 벤처 금융 등 유니콘 스타트업의 등장은 일시적 유행에 그치지 않고 지속적이며 대세적인 성장 방향이라 생각합니다. 
+
+산업의 패러다임 변화 주기는 점차 짧아지고 있으며 이에 따라 벤처 투자자의 역할은 더욱 증대될 것입니다.
 
 또한 이제는 벤처자금도 매력적인 금융의 일부로 자리매김하는 시대가 도래하였다고 생각합니다.
 
-그래서 저희는 우리 삶의 변화를 주도하는 새로운 플랫폼 사업자와 이를 뒷받침하는 기술의 진보에 주목하고자 합니다.  
-
-
-ou can use the [editor on GitHub](https://github.com/quadvc/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+저희는 우리 삶의 변화를 주도하는 사업자를 발굴하고 이를 뒷받침하는 기술에 주목하고자 합니다.
 <br/>
 <br/>
 <br/>
 <br/>
-## 
+## 펀드 현황
+| First Header | Second Header | Third Header | | :------------ | :-----------: | -------------------: | | First row | Data | Very long data entry | | Second row | **Cell** | *Cell* | | Third row | Cell that spans across two columns ||
 <br>
 <br/>
 <br/>
