@@ -52,7 +52,6 @@ Third row | Cell that spans across two columns
 <br/>
 <br/>
 ## Contact Us  
-![](logo.png){:width="35%" height="35%"}<br/><br/>
 서울시 영등포구 국제금융로 10 Three IFC 29층<br/>
 Tel. +82 2 730 8330<br/>
 Mail. [vc@quadim.com](mailto://vc@quadim.com)<br/>
