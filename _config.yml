@@ -1,4 +1,5 @@
 theme : jekyll-theme-minimal
 logo : "logo.svg" 
+title : " "
 use_text_title: false
 name : name
