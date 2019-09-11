@@ -1,4 +1,4 @@
 theme : jekyll-theme-minimal
-logo : "logo.svg" {:width="50%" height="50%"}
+logo : "logo.svg" { : width="50%" height="50%"}
 title: " "
 name : name
